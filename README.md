@@ -1,1 +1,1 @@
-# cap-inventory
+# cap-invent
